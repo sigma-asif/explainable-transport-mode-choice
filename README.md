@@ -30,7 +30,8 @@ Random Forest achieved the strongest performance in the main model benchmark and
 
 ```text
 .
-├── 01_model_benchmark_rf_shap.ipynb
-├── 02_qwen3_llm_explanations.ipynb
-├── 03_sensitivity_excluding_context_variables.ipynb
+├── 1_model_benchmark_rf_shap.ipynb
+├── 2_qwen3_llm_explanations.ipynb
+├── 3_sensitivity_excluding_context_variables.ipynb
 └── README.md
+```
